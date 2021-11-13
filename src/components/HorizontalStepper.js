@@ -1,0 +1,1 @@
+// Adjust a value by predefined increments using two-segment controls: < > (or - +)
